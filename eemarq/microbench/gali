@@ -1,0 +1,76 @@
+00:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890S/SR5650 Host Bridge (rev 02)
+00:02.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890/RD9x0/RX980 PCI to PCI bridge (PCI Express GFX port 0)
+00:03.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890/RD9x0 PCI to PCI bridge (PCI Express GFX port 1)
+00:04.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890/RD9x0/RX980 PCI to PCI bridge (PCI Express GPP Port 0)
+00:09.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890/RD9x0/RX980 PCI to PCI bridge (PCI Express GPP Port 4)
+00:11.0 SATA controller: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]
+00:12.0 USB controller: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB OHCI0 Controller
+00:12.1 USB controller: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0 USB OHCI1 Controller
+00:12.2 USB controller: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB EHCI Controller
+00:13.0 USB controller: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB OHCI0 Controller
+00:13.1 USB controller: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0 USB OHCI1 Controller
+00:13.2 USB controller: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 USB EHCI Controller
+00:14.0 SMBus: Advanced Micro Devices, Inc. [AMD/ATI] SBx00 SMBus Controller (rev 3d)
+00:14.3 ISA bridge: Advanced Micro Devices, Inc. [AMD/ATI] SB7x0/SB8x0/SB9x0 LPC host controller
+00:14.4 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] SBx00 PCI to PCI Bridge
+00:18.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:18.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:18.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:18.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:18.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:18.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+00:19.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:19.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:19.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:19.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:19.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:19.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+00:1a.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:1a.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:1a.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:1a.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:1a.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:1a.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+00:1b.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:1b.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:1b.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:1b.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:1b.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:1b.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+00:1c.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:1c.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:1c.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:1c.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:1c.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:1c.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+00:1d.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:1d.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:1d.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:1d.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:1d.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:1d.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+00:1e.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:1e.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:1e.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:1e.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:1e.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:1e.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+00:1f.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 0
+00:1f.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 1
+00:1f.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 2
+00:1f.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 3
+00:1f.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 4
+00:1f.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 15h Processor Function 5
+01:00.0 Ethernet controller: Broadcom Inc. and subsidiaries NetXtreme II BCM5709 Gigabit Ethernet (rev 20)
+01:00.1 Ethernet controller: Broadcom Inc. and subsidiaries NetXtreme II BCM5709 Gigabit Ethernet (rev 20)
+03:00.0 PCI bridge: PLX Technology, Inc. PEX 8624 24-lane, 6-Port PCI Express Gen 2 (5.0 GT/s) Switch [ExpressLane] (rev bb)
+04:00.0 PCI bridge: PLX Technology, Inc. PEX 8624 24-lane, 6-Port PCI Express Gen 2 (5.0 GT/s) Switch [ExpressLane] (rev bb)
+04:01.0 PCI bridge: PLX Technology, Inc. PEX 8624 24-lane, 6-Port PCI Express Gen 2 (5.0 GT/s) Switch [ExpressLane] (rev bb)
+04:04.0 PCI bridge: PLX Technology, Inc. PEX 8624 24-lane, 6-Port PCI Express Gen 2 (5.0 GT/s) Switch [ExpressLane] (rev bb)
+04:05.0 PCI bridge: PLX Technology, Inc. PEX 8624 24-lane, 6-Port PCI Express Gen 2 (5.0 GT/s) Switch [ExpressLane] (rev bb)
+05:00.0 Serial Attached SCSI controller: LSI Logic / Symbios Logic SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon] (rev 03)
+0a:03.0 VGA compatible controller: Matrox Electronics Systems Ltd. MGA G200eW WPCM450 (rev 0a)
+20:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890 Northbridge only dual slot (2x8) PCI-e GFX Hydra part (rev 02)
+20:02.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890/RD9x0/RX980 PCI to PCI bridge (PCI Express GFX port 0)
+20:03.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890/RD9x0 PCI to PCI bridge (PCI Express GFX port 1)
+20:0b.0 PCI bridge: Advanced Micro Devices, Inc. [AMD/ATI] RD890/RD990 PCI to PCI bridge (PCI Express GFX2 port 0)
